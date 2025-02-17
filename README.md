@@ -1,6 +1,6 @@
 # CISC 322 Group 31 Architecture Project
 
-## Exploring the Architecture of Steam
+## Exploring the Architecture of GNUstep
 
 ### Group Members:
 - **Ethan Chankowsky**
